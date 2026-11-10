@@ -1,9 +1,20 @@
 .odd,
 .odd-improved {
-  background-color: rgb(247, 122, 143);
+  background-color: rgb(243, 166, 179);
   font-family: "Verdana","DejaVu Sans", sans-serif;
 }
 
 .odd-improved {
   font-size: 24px;
+}
+
+#second-div {
+  color: #3d3df1;
+  font-size: 36px;
+}
+
+#fourth-div {
+  background-color: hsl(120, 78%, 70%);
+  font-size: 24px;
+  font-weight: bold;
 }
