@@ -1,10 +1,9 @@
-.odd,
-.odd-improved {
+.odd {
   background-color: rgb(243, 166, 179);
-  font-family: "Verdana","DejaVu Sans", sans-serif;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
-.odd-improved {
+.font-size-24px {
   font-size: 24px;
 }
 
@@ -15,6 +14,5 @@
 
 #fourth-div {
   background-color: hsl(120, 78%, 70%);
-  font-size: 24px;
   font-weight: bold;
 }
